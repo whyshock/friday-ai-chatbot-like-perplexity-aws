@@ -16,7 +16,11 @@ Here's what the interface looks like when you're chatting with Claude Opus 4.5 w
 ![FRIDAY chat interface showing a conversation with Claude Opus 4.5](friday-ui-screenshot.png)
 
 Here's the short video clip of firday in action!:
-https://github.com/user-attachments/assets/7bfd6b98-3efb-4c31-b8a3-6682ec295154
+<p align="center">
+  <video src="https://github.com/user-attachments/assets/7bfd6b98-3efb-4c31-b8a3-6682ec295154" width="80%" controls></video>
+</p>
+
+
 
 
 
