@@ -15,6 +15,10 @@ Here's what the interface looks like when you're chatting with Claude Opus 4.5 w
 
 ![FRIDAY chat interface showing a conversation with Claude Opus 4.5](friday-ui-screenshot.png)
 
+![](https://github.com/user-attachments/assets/7bfd6b98-3efb-4c31-b8a3-6682ec295154)
+
+
+
 Let me walk you through what you're seeing in this screenshot.
 
 At the top left, the **FRIDAY** logo with its glitch-text animation sits above a searchable conversation sidebar. The sidebar lists your chat history, and each conversation can be renamed, deleted, or branched. The green "Online" indicator at the bottom confirms the Lambda backend is reachable.
