@@ -3,7 +3,7 @@
 > 🔗 **Try the live demo:** [www.whyshock.com/apps/friday](http://www.whyshock.com/apps/friday/index.html)
 > 📧 **Want the deployment scripts?** Contact **i@whyshock.com** to get the source code and deploy FRIDAY to your own AWS account.
 
-Today, I'm sharing **FRIDAY**, an open-source, fully serverless AI chatbot that you can deploy to your own AWS account in under 10 minutes. It gives you a Perplexity-style chat interface with access to 20+ AI models — Anthropic Claude 4.x, 3.7, 3.5, Amazon Nova, and any custom Amazon Bedrock model ID — all from a single dropdown. No API keys, no SaaS subscriptions, no servers to manage.
+Here, I'm sharing **FRIDAY**, an open-source, fully serverless AI chatbot that you can deploy to your own AWS account in under 10 minutes. It gives you a Perplexity-style chat interface with access to 20+ AI models — Anthropic Claude 4.x, 3.7, 3.5, Amazon Nova, and any custom Amazon Bedrock model ID — all from a single dropdown. No API keys, no SaaS subscriptions, no servers to manage.
 
 FRIDAY supports web search with citations (DuckDuckGo built-in, Brave Search API optional), voice input via the Web Speech API, large file attachments up to 100 MB (PDFs, Office documents, code files, images), real-time streaming responses, extended thinking mode, conversation branching, a smart file summarizer that cuts token costs by up to 90%, and live session cost tracking. The entire infrastructure is defined in a single AWS CloudFormation template.
 
@@ -15,7 +15,8 @@ Here's what the interface looks like when you're chatting with Claude Opus 4.5 w
 
 ![FRIDAY chat interface showing a conversation with Claude Opus 4.5](friday-ui-screenshot.png)
 
-![](https://github.com/user-attachments/assets/7bfd6b98-3efb-4c31-b8a3-6682ec295154)
+Here's the short video clip of firday in action!:
+https://github.com/user-attachments/assets/7bfd6b98-3efb-4c31-b8a3-6682ec295154
 
 
 
