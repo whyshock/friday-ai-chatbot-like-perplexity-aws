@@ -1,0 +1,13 @@
+{
+  "title": "FRIDAY - AI Chat Interface",
+  "description": "Fully serverless AI chatbot with 20+ model support, file attachments, and real-time streaming on AWS.",
+  "image": "https://raw.githubusercontent.com/Vaishak/friday/main/screenshot.png",
+  "tags": ["AWS", "Serverless", "AI", "Bedrock", "Lambda"],
+  "live_url": "https://your-demo-url.com",
+  "metrics": [
+    { "value": "20+", "label": "AI Models" },
+    { "value": "$0", "label": "Infra Cost" }
+  ],
+  "featured": true,
+  "order": 1
+}
